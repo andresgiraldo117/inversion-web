@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+skandar-api/uploads/documentos/
+skandar-api/uploads/comprobante/
+skandar-api/uploads/
